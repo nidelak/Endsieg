@@ -1,0 +1,16 @@
+name="Endsieg"
+tags={
+	"Map"
+	"Military"
+	"National Focuses"
+	"Sound"
+	"Technologies"
+	"Events"
+	"Gameplay"
+	"Alternative History"
+	"Ideologies"
+	"Graphics"
+}
+picture="showdown.jpg"
+supported_version="1.12.14"
+remote_file_id="2948642461"
