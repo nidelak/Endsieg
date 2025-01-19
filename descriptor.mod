@@ -1,6 +1,4 @@
 version="0.1"
-replace_path="common/national_focus"
-replace_path="events"
 tags={
 	"Historical"
 	"National Focuses"
@@ -14,5 +12,5 @@ tags={
 	"Ideologies"
 }
 name="Endsieg [DEV]"
-supported_version="1.12.14"
+supported_version="1.14.*"
 path="C:/Users/kalle/Documents/Paradox Interactive/Hearts of Iron IV/mod/Endsieg"
