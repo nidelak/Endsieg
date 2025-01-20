@@ -11,6 +11,7 @@ tags={
 	"Graphics"
 	"Ideologies"
 }
+replace_path="gfx/loadingscreens"
 name="Endsieg [DEV]"
 supported_version="1.14.*"
 path="C:/Users/kalle/Documents/Paradox Interactive/Hearts of Iron IV/mod/Endsieg"
